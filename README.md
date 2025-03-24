@@ -3,9 +3,8 @@
 ### Задание 1
 
 1. Зарегистрируйте аккаунт на GitHub.
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+https://github.com/IMiroxxI/8-01-Git/blob/main/img/1.jpg
+![Скриншот 1](https://github.com/IMiroxxI/8-01-Git/blob/main/img/1.jpg)
 
 
 ---
