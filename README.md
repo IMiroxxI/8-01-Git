@@ -3,9 +3,8 @@
 ### Задание 1
 
 1. Зарегистрируйте аккаунт на GitHub.
-https://github.com/IMiroxxI/8-01-Git/blob/main/img/1.jpg
 ![Скриншот 1](https://github.com/IMiroxxI/8-01-Git/blob/main/img/1.jpg)
-
+2. 
 
 ---
 
