@@ -50,19 +50,22 @@
 ### Задание 3
 
 1. Создайте новую ветку dev и переключитесь на неё.
-
+![1](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-1.png)
 2. Создайте в ветке dev файл test.sh с произвольным содержимым.
-
+![2](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-2.png)
+![2.1](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-2.1.png)
 3. Сделайте несколько коммитов и пушей  в ветку dev, имитируя активную работу над  файлом в процессе разработки.
-
+![3](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-2.2.png)
+![3.1](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-2.3.png)
 4. Переключитесь на основную ветку.
-
+![4](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-4.png)
 5. Добавьте файл main.sh в основной ветке с произвольным содержимым, сделайте комит и пуш . Так имитируется продолжение общекомандной разработки в основной ветке во время разработки отдельного функционала в dev  ветке.
-
+![5](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-5.png)
+![5.1](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-5.1.png)
 6. Сделайте мердж dev  ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.
-
+![6](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-6.png)
 7. Сделайте пуш в основной ветке.
-
+![7](https://github.com/IMiroxxI/8-01-Git/blob/main/img3/3-7.png)
 8. Не удаляйте ветку dev.
 
 [Ссылка на граф коммитов](https://github.com/IMiroxxI/8-01/network)
