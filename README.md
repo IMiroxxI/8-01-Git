@@ -35,12 +35,13 @@
 ### Задание 2
 
 1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
-
+[1](https://github.com/IMiroxxI/8-01-Git/blob/main/img2/2-1.png)
 2. Добавьте файл .gitignore в следующий коммит `git add...`.
-
+[2](https://github.com/IMiroxxI/8-01-Git/blob/main/img2/2-2.png)
 3. Напишите правила в этом файле, чтобы игнорировать любые файлы `.pyc`, а также все файлы в директории `cache`.
-
+[3](https://github.com/IMiroxxI/8-01-Git/blob/main/img2/2-3.png)
 4. Сделайте коммит и пуш.
+[4](https://github.com/IMiroxxI/8-01-Git/blob/main/img2/2-4.png)
 
 [Ссылка на коммит](https://github.com/IMiroxxI/8-01/commit/6c18153fbc2cbc345a05712e3b501ab5d65a2392)
 
